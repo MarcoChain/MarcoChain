@@ -17,13 +17,11 @@
 * [`DCGAN`](https://github.com/MarcoChain/Deep-Convolutional-Generative-Adversarial-Networks) Generative models can be used to realize realistic samples for colourization, super-resolution, artwork but also for simulate times series data;
 
 
-<!-- 
 🚧 Repositories to complete: 
 * [`Time series analysis`](https://github.com/MarcoChain/Transformers-Time-Series) Regression using Transformers model implemented from scratch 
- -->
 
 🔜 Future projects: 
-* JMLP mixer and FNet implementation from scratch. 
+* MLP mixer and FNet implementation from scratch. 
 
 
 <h3 align="left">Machine learning and deep learning:</h3> 
