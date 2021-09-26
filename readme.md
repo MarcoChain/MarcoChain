@@ -15,6 +15,7 @@
 * [`Machine Learning and Deep Learning 2020 homeworks`](https://github.com/MarcoChain/Machine-learning-2020-homeworks): assignments concerning SVM, KNN, CNN, transfer learning using sklearn and Pytorch;
 * [`Heart dises analysis`](https://github.com/MarcoChain/Matematichs-in-machine-learning-tesina) comparing the main machine learning algoritmhs using the sklearn library;
 * [`DCGAN`](https://github.com/MarcoChain/Deep-Convolutional-Generative-Adversarial-Networks) Generative models can be used to realize realistic samples for colourization, super-resolution, artwork but also for simulate times series data;
+* [`VAE on MINST`](https://github.com/MarcoChain/LearnMathWithMNIST) VAE models used to learn very basic operation on the MNIST dataset.
 
 
 🚧 Repositories to complete: 
