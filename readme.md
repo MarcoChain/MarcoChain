@@ -5,6 +5,7 @@
 📫 How to reach me <a href="https://www.linkedin.com/in/marcogullotto/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 ✅ Finished projects:
+* [`Hinton forward-forward-algorithm`](https://github.com/MarcoChain/Forward-Forward-Implementation) Implementation of the forward-forward algorithm by Hinton
 * [`Skip Connection comparison`](https://github.com/MarcoChain/Skip-Connection---Comparison) Comparison between additional and multiplicative skip connections
 * [`CERN Dimensionality-Reduction for GSOC`](https://github.com/MarcoChain/ML4-Dimensionality-Reduction) Project for the Google Summer Of Code (GSOC);
 * [`Homework 2 cs285 2020`](https://github.com/MarcoChain/CS285-Homework2) lab 2 solutions of the course "CS 285 at UC Berkeley";
