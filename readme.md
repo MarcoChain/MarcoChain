@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Marco Gullotto </h1>
-<h3 align="center">A Data science and Engineering from Politecnico di Torino</h3>
+<h3 align="center">A Data science and Engineering from Zalando Marketing Services</h3>
 
 
 📫 How to reach me <a href="https://www.linkedin.com/in/marcogullotto/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
