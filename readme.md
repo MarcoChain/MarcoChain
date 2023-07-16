@@ -5,6 +5,7 @@
 📫 How to reach me <a href="https://www.linkedin.com/in/marcogullotto/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 ✅ Finished projects:
+* [`Low-Resource-Image-Classification`](https://github.com/MarcoChain/Low-Resource-Image-Classification) Image classification based on "Low-Resource Text Classification: A Parameter-Free Classification Method with Compressors".
 * [`sDolly`](https://github.com/MarcoChain/sDolly2) Fine-tune distilgpt2 for Question Answering.
 * [`Hinton forward-forward-algorithm`](https://github.com/MarcoChain/Forward-Forward-Implementation) Implementation of the forward-forward algorithm by Hinton
 * [`Skip-Connections comparison`](https://github.com/MarcoChain/Skip-Connection---Comparison) Comparison between additional and multiplicative skip connections
